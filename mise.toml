@@ -1,9 +1,9 @@
 [tools]
 
 cmake = "4.4.3"
-gh = "2.101.0"
+gh = "2.102.0"
 imagemagick = "latest"
-python = "3.14.7"
+python = "3.14.8"
 rust = "latest"
 uv = "latest"
 
