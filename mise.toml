@@ -1,6 +1,6 @@
 [tools]
 
-cmake = "4.4.3"
+cmake = "4.4.4"
 gh = "2.102.0"
 imagemagick = "latest"
 python = "3.14.8"
